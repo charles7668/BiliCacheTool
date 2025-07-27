@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BiliCacheTool": {
+      "commandName": "Project",
+      "commandLineArgs": "--input \"F:\\bilibili temp\" --output \".\""
+    }
+  }
+}
